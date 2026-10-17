@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://www.bettercap.org/_astro/logo.9NeNvQAS_1DurH4.webp" alt="Bettercap Logo" width="200" height="200">
+</p>
+
 # 🛰️ Bettercap Quick Notes
 
 Catatan singkat & cheat sheet pribadi untuk penggunaan [Bettercap](https://www.bettercap.org/) — Swiss army knife untuk network attack, monitoring, dan MITM (Man-in-the-Middle) testing.
